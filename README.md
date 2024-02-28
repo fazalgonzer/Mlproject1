@@ -1,2 +1,2 @@
-## end to end machine alrning project .
-## 1st setting up the env and then gitting the env to or the folder to git hbgit 
+## end to end machine learning project .
+## Student Perfromance Prediction
